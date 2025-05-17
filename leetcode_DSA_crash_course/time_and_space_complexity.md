@@ -1,4 +1,4 @@
-### Introduction to Big O
+## Introduction to Big O
 
 Calculating Complexity
 
@@ -15,7 +15,7 @@ Three cases
 - worst case
 - Always consider the worst case scenario but should be able to talk about all cases
 
-#### Analyzing time complexity
+### Analyzing time complexity
 
 - O(n)
 ```python	
@@ -57,7 +57,7 @@ Logarithmic time
 - binary search, at the first step, its n/2, at the second step its n/4
 
 
-#### Analyzing Space complexity
+### Analyzing Space complexity
 
 - O(1)
 ```python

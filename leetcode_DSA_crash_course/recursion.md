@@ -1,4 +1,4 @@
-### Recursion
+## Recursion
 
 - Recursion is a function that calls itself
 - Recursion is a way to solve problems by using a function that calls itself
@@ -15,7 +15,7 @@ def fn(i):
 - Base case: the condition that stops the recursion
 
 
-#### Fibonacci Sequence
+### Fibonacci Sequence
 
 - Fibonacci sequence is a sequence of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
 
