@@ -16,6 +16,9 @@ Complexity of Common Operations:
 
 `Start the pointers at the edges of the input. Move them towards each other until they meet`
 
+- either or both of the pointers can be updated when certain condition is met
+- pointers can be on any position of the arrays
+
 #### Palindrome:
 - problems have different variation
 - assume the worst
